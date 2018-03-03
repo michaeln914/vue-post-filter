@@ -1,5 +1,5 @@
 // Base Url of the API
-const baseUrl = "http://jsonplaceholder.typicode.com/";
+const baseUrl = "https://my-json-server.typicode.com/michaeln914/vue-post-filter/movies";
 
 // List component
 const List = {
